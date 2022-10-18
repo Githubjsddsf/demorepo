@@ -1,0 +1,11 @@
+# do not upload
+
+secrets.json
+
+#ignore all txt files
+
+*.txt
+
+# allow robot's text
+
+!robots.txt
